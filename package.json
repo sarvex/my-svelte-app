@@ -10,7 +10,7 @@
 		"@fontsource/fira-mono": "5.0.8",
 		"@neoconfetti/svelte": "2.2.1",
 		"@sveltejs/adapter-auto": "3.1.1",
-		"@sveltejs/kit": "2.4.1",
+		"@sveltejs/kit": "2.4.3",
 		"svelte": "4.2.9",
 		"vite": "5.0.12"
 	},
