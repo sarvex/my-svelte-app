@@ -9,7 +9,7 @@
 	"devDependencies": {
 		"@fontsource/fira-mono": "5.1.0",
 		"@neoconfetti/svelte": "2.2.1",
-		"@sveltejs/adapter-auto": "3.2.5",
+		"@sveltejs/adapter-auto": "3.3.0",
 		"@sveltejs/kit": "2.7.2",
 		"svelte": "5.0.5",
 		"vite": "5.4.9"
