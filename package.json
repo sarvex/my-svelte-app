@@ -11,8 +11,8 @@
 		"@neoconfetti/svelte": "2.2.1",
 		"@sveltejs/adapter-auto": "3.3.1",
 		"@sveltejs/kit": "2.8.0",
-		"svelte": "5.1.13",
-		"vite": "5.4.10"
+		"svelte": "5.1.14",
+		"vite": "5.4.11"
 	},
 	"type": "module"
 }
