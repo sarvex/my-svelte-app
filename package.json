@@ -7,7 +7,7 @@
 		"preview": "vite preview"
 	},
 	"devDependencies": {
-		"@fontsource/fira-mono": "5.1.1",
+		"@fontsource/fira-mono": "5.2.0",
 		"@neoconfetti/svelte": "2.2.1",
 		"@sveltejs/adapter-auto": "4.0.0",
 		"@sveltejs/kit": "2.8.5",
