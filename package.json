@@ -12,7 +12,7 @@
 		"@sveltejs/adapter-auto": "5.0.0",
 		"@sveltejs/kit": "2.20.2",
 		"svelte": "5.25.5",
-		"vite": "6.2.3"
+		"vite": "6.2.4"
 	},
 	"type": "module"
 }
